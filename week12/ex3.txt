@@ -1,0 +1,35 @@
+Press P + E to print 'I passed the exam'
+Press C + A + P to print 'Get some cappuccino!
+Press H + I to print 'See you in oral exam!
+I passed the Exam!
+I passed the Exam!
+I passed the Exam!
+I passed the Exam!
+I passed the Exam!
+I passed the Exam!
+I passed the Exam!
+I passed the Exam!
+I passed the Exam!
+I passed the Exam!
+I passed the Exam!
+I passed the Exam!
+I passed the Exam!
+I passed the Exam!
+I passed the Exam!
+I passed the Exam!
+I passed the Exam!
+I passed the Exam!
+I passed the Exam!
+I passed the Exam!
+Get some cappuccino!
+Get some cappuccino!
+Get some cappuccino!
+Get some cappuccino!
+See you in oral exam!
+See you in oral exam!
+See you in oral exam!
+See you in oral exam!
+See you in oral exam!
+See you in oral exam!
+See you in oral exam!
+See you in oral exam!

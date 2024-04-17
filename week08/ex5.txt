@@ -1,0 +1,2 @@
+A physical address is a location that exists physically in the memory unit of the computer. On the other hand, a virtual address doesn't exist physically there. 
+It acts as a reference to a process address space. It's also called as logical address.

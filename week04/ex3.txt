@@ -1,0 +1,6 @@
+When n = 3, in Total, 8 processes were created.
+This is due to each process creating a child for itself and repeats recursively
+Main process created 3 children (Each one of them run fork 0 to 2 times), one of them had 2 children and 1 grandchild, one has only one child, and one is childless
+
+When n = 5, there were 32 processes created. It is clear that the number of processes created increases exponentially.
+We can generalize this in number of processes = 2 power n

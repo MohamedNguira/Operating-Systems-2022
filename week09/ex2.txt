@@ -1,0 +1,13 @@
+I tested with the following sequence:
+1 2 2 3 4 1 2 3 1 2 3 5 3 7 6 2 1 6 2 1 4 2 3 4 2 1 5 6
+and number of page frames = 3
+
+This gave me:
+Hit / miss ratio: 0.647059
+
+The hit ratio for the chosen sequence is much higher than that of the given sequence.
+For my sequence, I repeated 1, 2 and 3 more frequently and close to each than other values,
+which is the real behaviour of processes during execution, as a page that has been frequently and recently used
+is more likely to be used in the future. The purpose of ageing algorithm is to score a high hit rate for those sequences,
+which the case for my results.
+

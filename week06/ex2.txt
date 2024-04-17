@@ -1,0 +1,2 @@
+Average turnaround and waiting times using shortest job first algorithm are lower than the values observed using first come, first served algorithm.
+This is due to better scheduling and giving priority for processes which take lower process time, thus reducing the total waiting time.

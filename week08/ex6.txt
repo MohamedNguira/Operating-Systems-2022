@@ -1,0 +1,3 @@
+Pages have 8 KB we have 16-bit virtual addresses.
+Therefore, the number of entries are needed for a single-level linear page table is:
+2 power 16 / 2 power 13 = 2 power 3 = 8 entries 

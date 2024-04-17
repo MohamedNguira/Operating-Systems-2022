@@ -1,0 +1,3 @@
+Real Process Time seems to be decreasing during the first 3 tests, but increases when the number of threads gets significantly higher.
+This is due to the mutex locking we are doing which makes threads wait for more time for the unlocking to be done. We can also see a significant
+increase in system time consumed for higher number of threads which is also due to the massive amounts of mutex calls we are performing in our program.

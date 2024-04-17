@@ -1,0 +1,23 @@
+    1  sudo apt-get
+    2  sudo apt-get update
+    3  apt update
+    4  sudo apt update
+    5  apt upgrade
+    6  sudo apt upgrade
+    7  apt install caffeine 
+    8  sudo apt install caffeine 
+    9  sudo apt install chrome
+   10  ping riot.nl
+   11  apt get update
+   12  apt update
+   13  sudo apt update
+   14  sudo apt upgrade
+   15  cd Home
+   16  mkdir week1
+   17  cd week1/
+   18  ls
+   19  nano ex1.txt
+   20  echo test
+   21  echo hii
+   22  history | cat
+   23  history | cat > ex2.txt 

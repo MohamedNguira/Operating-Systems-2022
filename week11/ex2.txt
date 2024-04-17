@@ -1,0 +1,22 @@
+Original root
+ex2.out
+lofs.img
+ex2.sh
+lofsdisk
+ex2.txt
+.
+..
+ex2.c
+ex1.sh
+clean.sh
+
+Loop device root
+.
+..
+bin
+lib
+ex2.out
+file1
+lost+found
+file2
+lib64

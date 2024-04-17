@@ -1,0 +1,4 @@
+When testing Round robin algorithm, it shows average turnaround and waiting times higher than the ones observed using shortest job first and first come, first served algorithms.
+This is due to suspending a process while running and let it complete at another time. Performing this operation a lot will give a high waiting time since
+most processes are going to take more than the quantum unit chosen to finish. The advantage of this algorithm is that very long processes won't block the execution
+of the other processes.

@@ -1,0 +1,25 @@
+Time taken for range [0,10000000) and 1 threads:
+real 2.48
+user 2.48
+sys 0.00
+==============
+Time taken for range [0,10000000) and 2 threads:
+real 1.28
+user 2.54
+sys 0.02
+==============
+Time taken for range [0,10000000) and 4 threads:
+real 0.79
+user 2.83
+sys 0.24
+==============
+Time taken for range [0,10000000) and 10 threads:
+real 1.04
+user 5.13
+sys 3.74
+==============
+Time taken for range [0,10000000) and 100 threads:
+real 1.21
+user 5.34
+sys 13.31
+==============

@@ -1,0 +1,2 @@
+Real Process time decreased when we increased the number of threads. This is due to multiple computations running in parallel with each other in threads
+which finishes the entire program faster. But due to the high number of threads and multiple operations on threads, the user time is increasing.
